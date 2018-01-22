@@ -17,5 +17,5 @@ Arduino src code
 Delta robot driver and kinematic solver.
 
 
-..* How to launch
+* How to launch
 roslaunch delta_robot_support delta_robot_sim.launch
